@@ -1,7 +1,7 @@
 {
     "clientVersionCode": 209,
     "gameFilesVersionCode": 13,
-    "URL_GAME_FILES" : "http://slaughters.geryon.feralhosting.com/samp-cache-lite.7z",
+    "URL_GAME_FILES" : "https://github.com/legendbgmiacc7-cmd/NewrpCdn/releases/download/v1.0/dxt.7z",
     "URL_GAME_FILES_DXT" : "https://github.com/legendbgmiacc7-cmd/NewrpCdn/releases/download/v1.0/dxt.7z",
     "URL_GAME_FILES_PVR" : "http://slaughters.geryon.feralhosting.com/pvr.7z",
     "URL_GAME_FILES_ETC" : "http://slaughters.geryon.feralhosting.com/etc.7z",
