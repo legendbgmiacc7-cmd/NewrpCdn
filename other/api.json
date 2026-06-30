@@ -3,13 +3,13 @@
     "gameFilesVersionCode": 13,
     "URL_GAME_FILES" : "https://github.com/legendbgmiacc7-cmd/NewrpCdn/releases/download/v1.0/dxt.7z",
     "URL_GAME_FILES_DXT" : "https://github.com/legendbgmiacc7-cmd/NewrpCdn/releases/download/v1.0/dxt.7z",
-    "URL_GAME_FILES_PVR" : "http://slaughters.geryon.feralhosting.com/pvr.7z",
-    "URL_GAME_FILES_ETC" : "http://slaughters.geryon.feralhosting.com/etc.7z",
-    "URL_GAME_FILES_UPD" : "http://slaughters.geryon.feralhosting.com/files_upd.7z",
+    "URL_GAME_FILES_PVR" : "https://github.com/legendbgmiacc7-cmd/NewrpCdn/releases/download/v1.0/dxt.7z",
+    "URL_GAME_FILES_ETC" : "https://github.com/legendbgmiacc7-cmd/NewrpCdn/releases/download/v1.0/dxt.7z",
+    "URL_GAME_FILES_UPD" : "https://github.com/legendbgmiacc7-cmd/NewrpCdn/releases/download/v1.0/dxt.7z",
     "URL_GAME_GRAPHICS" : "https://forum.crime-mobile.net/",
 	"URL_GAME_FILES_PROVIDE": "http://slaughters.geryon.feralhosting.com/CrimeRp/",
     "URL_FORUM": "https://forum.evil-mobile.net/",
     "URL_DONATE": "https://evil-mobile.net/ru/shop",
     "URL_CLIENT": "http://slaughters.geryon.feralhosting.com/app-crime-release.apk",
-	"GAME_NAME": "Evil Mobile"
+	"GAME_NAME": "Legends Mobile"
 }
