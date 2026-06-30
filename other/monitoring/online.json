@@ -1,0 +1,13 @@
+
+	[
+	  {
+	  	"name": "Crime Mobile | Server 1",
+	  	"online": 500,
+	  	"ping": 30
+	  },
+	  {
+	  	"name": "Crime Mobile | Server 2",
+	  	"online": 500,
+	  	"ping": 30
+	  }
+	  	]

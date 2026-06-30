@@ -1,0 +1,14 @@
+[
+	{
+		"ip": "141.95.234.16",
+		"port": 1645, 
+		"action": "x4 донат",
+		"action2": "",
+		"action3": "",
+		"action4": "",
+		"color": "#ffFFB800",
+		"name": "Авторитетный (01)",
+		"new_server": false,
+		"test_server": false
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ip": "	141.95.234.16",
+		"port": 1645, 
+		"action": "x4",
+		"name": "Авторитетный (01)",
+		"new_server": false,
+		"test_server": false
+	},
+	{
+		"ip": "79.137.97.41",
+		"port": 7777,
+		"action": "x4",
+		"name": "Бандитский (02)",
+		"new_server": false,
+		"test_server": false
+	},
+	{
+		"ip": "65.108.99.34",
+		"port": 3911,
+		"action": "x4",
+		"name": "Тестовый",
+		"new_server": false,
+		"test_server": true
+	}
+]
