@@ -1,15 +1,15 @@
 {
     "clientVersionCode": 209,
-    "gameFilesVersionCode": 15,
-    "URL_GAME_FILES" : "https://pub-386762ac4444416592f30c631bdd63af.r2.dev/dxt.7z",
-    "URL_GAME_FILES_DXT" : "https://pub-386762ac4444416592f30c631bdd63af.r2.dev/dxt.7z",
-    "URL_GAME_FILES_PVR" : "https://pub-386762ac4444416592f30c631bdd63af.r2.dev/dxt.7z",
-    "URL_GAME_FILES_ETC" : "https://pub-386762ac4444416592f30c631bdd63af.r2.dev/dxt.7z",
-    "URL_GAME_FILES_UPD" : "https://pub-386762ac4444416592f30c631bdd63af.r2.dev/dxt.7z",
-    "URL_GAME_GRAPHICS" : "https://forum.crime-mobile.net/",
-	"URL_GAME_FILES_PROVIDE": "http://slaughters.geryon.feralhosting.com/CrimeRp/",
+    "gameFilesVersionCode": 14,
+    "URL_GAME_FILES": "https://pub-386762ac4444416592f30c631bdd63af.r2.dev/dxt.7z",
+    "URL_GAME_FILES_DXT": "https://pub-386762ac4444416592f30c631bdd63af.r2.dev/dxt.7z",
+    "URL_GAME_FILES_PVR": "https://pub-386762ac4444416592f30c631bdd63af.r2.dev/dxt.7z",
+    "URL_GAME_FILES_ETC": "https://pub-386762ac4444416592f30c631bdd63af.r2.dev/dxt.7z",
+    "URL_GAME_FILES_UPD": "https://pub-386762ac4444416592f30c631bdd63af.r2.dev/dxt.7z",
+    "URL_GAME_GRAPHICS": "https://forum.crime-mobile.net/",
+    "URL_GAME_FILES_PROVIDE": "http://slaughters.geryon.feralhosting.com/CrimeRp/",
     "URL_FORUM": "https://forum.evil-mobile.net/",
     "URL_DONATE": "https://evil-mobile.net/ru/shop",
     "URL_CLIENT": "http://slaughters.geryon.feralhosting.com/app-crime-release.apk",
-	"GAME_NAME": "Legends Mobile"
+    "GAME_NAME": "Legends Mobile"
 }
