@@ -1,10 +1,13 @@
 [
   {
-    "name": "Server 01",
+    "name": "Server Name",
     "ip": "188.127.241.74",
     "port": 3666,
-    "online": 100,
+    "online": 0,
     "maxOnline": 1000,
-    "color": "#FF0000"
+    "color": "#FF0000",
+    "dopname": "Subname",
+    "action": 0,
+    "lock": 0
   }
 ]
