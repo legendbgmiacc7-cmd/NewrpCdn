@@ -1,14 +1,10 @@
 [
-	{
-		"ip": "188.127.241.74",
-		"port": 3666, 
-		"action": "x4 донат",
-		"action2": "",
-		"action3": "",
-		"action4": "",
-		"color": "#ffFFB800",
-		"name": "Авторитетный (01)",
-		"new_server": false,
-		"test_server": false
-	}
+  {
+    "name": "Server 01",
+    "ip": "188.127.241.74",
+    "port": 3666,
+    "online": 100,
+    "maxOnline": 1000,
+    "color": "#FF0000"
+  }
 ]
