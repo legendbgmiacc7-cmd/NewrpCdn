@@ -1,20 +1,8 @@
 [
-	{
-		"sId": 1,
-		"captionTop": "Обновление",
-		"captionBottom": "карты",
-		"detailsUrl": "https://vk.com/crimemobs",
-		"imageFullUrl": "http://cdn.crime-mobile.net/story/story_two.jpg",
-		"imageMiniUrl": "http://cdn.crime-mobile.net/story/story_two.jpg",
-		"isNew": true
-	},
-	{
-		"sId": 2,
-		"captionTop": "Обновление",
-		"captionBottom": "лаунчера",
-		"detailsUrl": "https://vk.com/crimemobs",
-		"imageFullUrl": "http://cdn.crime-mobile.net/story/story_first.png",
-		"imageMiniUrl": "http://cdn.crime-mobile.net/story/story_first.png",
-		"isNew": false
-	}
+  {
+    "id": 1,
+    "title": "Test",
+    "image": "https://example.com/image.png",
+    "url": "https://example.com/article"
+  }
 ]
