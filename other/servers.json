@@ -1,10 +1,11 @@
 [
   {
-    "name": "Server 01",
-    "ip": "188.127.241.74",
-    "port": 3666,
-    "online": 100,
-    "maxOnline": 1000,
-    "color": "#FF0000"
+    "name": "LIVE RUSSIA",
+    "dopname": "Server 01",
+    "color": "6ec6ff",
+    "online": 450,
+    "maxonline": 1000,
+    "action": true,
+    "lock": false
   }
 ]
