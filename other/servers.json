@@ -1,11 +1,15 @@
 [
-  {
-    "name": "BERN RUSSIA",
-    "dopname": "Server 01",
-    "color": "6ec6ff",
-    "online": 450,
-    "maxonline": 1000,
-    "action": true,
-    "lock": false
-  }
+{
+"online":"100",
+"maxonline":"1000",
+"color":"000000",
+"x2":"1",
+"key":"1424",
+"name":"BLACK",
+"firstname":"BLACK MONEY",
+"secondname":"",
+"url":"red.blackrussia.online",
+"ip":"5.199.138.96",
+"port":"2308"
+}
 ]
